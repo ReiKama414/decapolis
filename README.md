@@ -3,6 +3,7 @@
 在瀏覽器裡環視十座城市的 3D 天際線：日夜切換、自動旋轉、即時切城。
 
 - GitHub: https://github.com/ReiKama414/decapolis
+- Demo: https://reikama414.github.io/decapolis/
 - Site: https://reikama414.vercel.app/
 
 ## 技術棧
@@ -56,5 +57,6 @@ decapolis/
 Copyright (c) 2026 ReiKama414
 
 - GitHub: https://github.com/ReiKama414/decapolis
+- Demo: https://reikama414.github.io/decapolis/
 - Site: https://reikama414.vercel.app/
 - Full text: see [LICENSE](./LICENSE)
